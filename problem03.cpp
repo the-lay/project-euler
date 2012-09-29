@@ -18,7 +18,7 @@ void primeFactor(unsigned long long a)
 
 int main()
 {
-    primeFactor(600851475143LL);
+    primeFactor(600851475143);
     return 0;
 }
 
