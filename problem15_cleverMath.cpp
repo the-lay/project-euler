@@ -2,7 +2,7 @@
 #include <iomanip> //setprecision()
 using namespace std;
 
-//used combinatoris for this
+//used combinatoriсs for this
 //it's the binomial coefficient with 40 on top and 20 on the bottom
 //we have 40 steps to reach the finish(20 for x, 20 for y)
 //so the real problem is:
